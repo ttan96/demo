@@ -12,6 +12,7 @@ namespace demogithub
         {
             //Đẩy project lên Github
             //Đẩy project lên GH khi có sự thay đổi...
+            //Lấy project từ GH về lại máy
         }
     }
 }
