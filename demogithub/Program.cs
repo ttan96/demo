@@ -11,6 +11,7 @@ namespace demogithub
         static void Main(string[] args)
         {
             //Đẩy project lên Github
+            //Đẩy project lên GH khi có sự thay đổi...
         }
     }
 }
